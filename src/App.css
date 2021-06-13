@@ -1,0 +1,9 @@
+body{
+  background: url("https://lh3.googleusercontent.com/proxy/JiiL27B2r1R67gdvQBV0Aukl8IJl9xpaohBTo9LNnBxqr-q41PpxF69jkOnW26ca9g98LdETxGFF8mdI1VsY0RnACaONYN3L5Jcqps71NpEWFhalslSDi1dumhVfS9C4bxNGX9IJ1JC3ig") fixed;
+  background-size: 100%;
+}
+
+.App {
+  display: flex;
+}
+

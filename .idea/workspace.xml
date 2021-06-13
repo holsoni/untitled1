@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2439ad6a-3b69-414c-a90a-450702de8397" name="Default Changelist" comment="a">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Components/ColorPicker/ColorPicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Components/ColorPicker/ColorPicker.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Components/KeyComponet/Key.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Components/KeysData.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/Components/StyledComponents/StyledComponents.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ttn4pSfckOOvWcdosiEvnuF9Cw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2439ad6a-3b69-414c-a90a-450702de8397" name="Default Changelist" comment="" />
+      <created>1623597070875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623597070875</updated>
+      <workItem from="1623597073004" duration="336000" />
+    </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1623597182325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623597182325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+</project>
